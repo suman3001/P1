@@ -9,6 +9,7 @@ public class ArmstrongNumberCheck {
         } else {
             System.out.println(number + " is not an Armstrong number.");
             System.out.println("from bharat");
+            System.out.println("from Mohoniganj");
 
         }
     }
